@@ -43,6 +43,11 @@ To Enumerate the DNS Records for a domain add the domain name to the text box, l
 
 ![Pasted image 20231016212502.png](https://raw.githubusercontent.com/Xp101T7/Xp101T7.github.io/main/Media/Pasted%20image%2020231016212502.png)
 
+
+If all sub domains are PWN_ABLE from your list then the domain is enumrating wonky!!! I'm looking into making the tools output errors when this is occuring... Future Release...
+
+Also adding a Completed Notification!!! Coming Soon...
+
 ---
 
 The Code can be found by Reversing the files...
