@@ -3,7 +3,7 @@
 
 ---
 
-## DNS Enumeration Tools - (Created by ME)
+## DNS Enumeration Tools
 
 I have created some python DNS enumeration tools. There is a DNS recon tool and Sub Domain Recon Tool.
 
