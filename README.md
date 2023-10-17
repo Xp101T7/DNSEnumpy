@@ -9,7 +9,7 @@ I have created some python DNS enumeration tools. There is a DNS recon tool and 
 
 In order to run these tools all you have to install python from python.org or from the Microsoft store.
 
-Then navigate to my repository and download the zip files > extract > run > allow the file to run.
+Then navigate to my repository and download the zip files > extract > run > allow the file to run > follow directions below > results.
 
 [https://github.com/Xp101T7/DNSEnumpy](https://github.com/Xp101T7/DNSEnumpy)
 
